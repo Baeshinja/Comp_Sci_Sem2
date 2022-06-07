@@ -1,0 +1,5 @@
+x = input("What's the birthday kiddo's name?")
+print("Happy Birthday to you~")
+print("Happy Birthday to you~")
+print("Happy Birthday dear" + " " + x + "~")
+print("Happy Birthday to you~")
